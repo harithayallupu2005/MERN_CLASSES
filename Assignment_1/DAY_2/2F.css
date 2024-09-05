@@ -1,0 +1,17 @@
+.p1{
+    color:rgb(0,118,0);
+}
+.btn-1{
+    background-color: rgb(255,216,20);
+    border: none;
+    height: 30px;
+    width: 100px;
+    border-radius: 25px;
+}
+.btn-2{
+    background-color: rgb(255,116,24);
+    border: none;
+    height: 30px;
+    width:75px;
+    border-radius: 25px;
+}

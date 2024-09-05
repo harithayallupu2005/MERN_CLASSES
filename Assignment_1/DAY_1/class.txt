@@ -1,0 +1,92 @@
+DATE:03/09/2024
+DAY:TUESDAY
+
+
+Today I learnt 
+1.Basics of html.
+2.HTML elements.
+3.HTML tags.
+4.HTML attributes
+
+
+1.**BASICS OF HTML:**
+
+HTML which stands for "HyperText Markup Language".It is the standard language used to create webpages.
+It structures content using elements like headings, paragraphs, links, images, and buttons,
+which are defined by tags enclosed in angle brackets (e.g., <p> for a paragraph).
+
+
+2.**HTML ELEMENTS:**
+
+HTML elements are the building blocks of web pages and consist of:
+
+1.TAGS: Elements are defined by tags enclosed in angle brackets, such as <p> for paragraphs or
+        <a> for links.
+2.ATTRIBUTES: Tags can include attributes that provide additional information, like href in
+              <a href="https://example.com">.
+3.CONTENT: The content is placed between the opening and closing tags, such as the text inside
+           a <p> tag.
+4.CLOSING TAGS: Most elements have closing tags (e.g., </p>), except for self-closing tags like <img>.
+
+
+3.**HTML TAGS**
+
+HTML tags are used to define and structure content on a webpage.
+
+A.HEADINGS:
+<h1>, <h2>, <h3>, <h4>, <h5>, <h6>: Define headings of different levels, with <h1> being the 
+largest and <h6> the smallest.
+
+B.PARAGRAPH:
+<p>: Defines a paragraph of text.
+
+C.LINKS:
+<a href="URL">: Creates a hyperlink to another webpage or resource.
+
+D.IMAGES:
+<img src="URL" alt="description">: Embeds an image with a source URL and alternative text.
+
+E.LISTS:
+<ul>: Defines an unordered list.
+<ol>: Defines an ordered list.
+<li>: Defines a list item within <ul> or <ol>.
+
+F.BUTTONS:
+<button>: Creates a clickable button.
+
+G.DIVISION:
+<div>: Groups content and applies styles or layout.
+
+H.Span:
+<span>: Inline container for styling or grouping small pieces of content.
+
+
+4.**HTML ATTRIBUTES:**
+
+HTML attributes provide additional information about an element and are included within the
+opening tag.
+
+href: Specifies the URL of a link.
+Example: <a href="https://www.example.com">Visit Example</a>
+
+src: Specifies the source URL for an image or other media.
+Example: <img src="image.jpg" alt="Description of image">
+
+alt: Provides alternative text for images, useful for accessibility.
+Example: <img src="logo.png" alt="Company Logo">
+
+class: Assigns one or more class names to an element, used for styling with CSS.
+Example: <div class="container">Content here</div>
+
+id: Provides a unique identifier for an element, often used for styling or scripting.
+Example: <p id="intro">Welcome to the website</p>
+
+style: Applies inline CSS styles directly to an element.
+Example: <p style="color: red;">This text is red.</p>
+
+target: Specifies how to open a link, such as in a new tab (_blank) or the same frame (_self).
+Example: <a href="https://www.example.com" target="_blank">Open in a new tab</a>
+
+Attributes are written as name-value pairs, with the value enclosed in quotes.
+
+
